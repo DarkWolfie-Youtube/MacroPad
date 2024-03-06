@@ -1,0 +1,26 @@
+{
+  "name": "macropad",
+  "version": "1.0.0",
+  "description": "A VTuber Friendly Stream Deck that Intergrates with VTube Studio and VSeeFace. Can link with Stream Deck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkWolfie-Youtube/MacroPad.git#ServerAPP"
+  },
+  "keywords": [
+    "vtuber"
+  ],
+  "author": "DarkWolfie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkWolfie-Youtube/MacroPad/issues"
+  },
+  "homepage": "https://github.com/DarkWolfie-Youtube/MacroPad/tree/ServerAPP#readme",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
